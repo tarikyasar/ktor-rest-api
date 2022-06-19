@@ -1,0 +1,1 @@
+rootProject.name = "com.tarikyasar.rest-api-sample"
